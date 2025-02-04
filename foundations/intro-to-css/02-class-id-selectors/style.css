@@ -1,0 +1,22 @@
+.example{
+    background-color: pink;
+    .text-style{font-family: Verdana, "DejaVu Sans",sans-serif;}
+}
+
+#title{
+    color: blue;
+    font-size: 36px;
+}
+
+.example1{
+    background-color: pink;
+    .text-style{font-family: Verdana, "DejaVu Sans",sans-serif;}
+    font-size: 24px;
+}
+
+#title1{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+
+}
